@@ -1,2 +1,3 @@
 # aws-project1
-A project that uses aws
+
+My first project that uses AWS!
